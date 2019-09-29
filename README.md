@@ -1,3 +1,1 @@
-#C/C++
-Test
-
+All codes done in C++ language
